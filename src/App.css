@@ -1,0 +1,34 @@
+body {
+
+text-align: center;
+}
+
+* {
+  padding:0;
+  margin: 0;
+
+}
+.notesHeader, .notesBody, .notesFooter {
+
+ 
+  padding: 20px;
+  margin: 0;
+}
+.notesHeader {
+  padding-top: 80px;
+  background: #333;
+  font-family: segoe UI;
+}
+.notesBody {
+
+  margin-top: 20px;
+}
+
+.notesFooter {
+  background: #333;
+  bottom: 0;
+  position: fixed;
+  left: 0;
+  width: 100%;
+
+}
